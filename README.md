@@ -1,5 +1,7 @@
 # awesome-chess-ai
 
+![Chess AI](chessai.jpg)
+
 A comprehensive collection of resources focused on the intersection of AI and chess. This repository includes a wide variety of materials such as books, research papers, and links to related projects. It aims to be a valuable reference for developers, researchers, and chess enthusiasts interested in chess AI.
 
 ## Table of contents
